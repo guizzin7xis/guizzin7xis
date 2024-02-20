@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @guizzin7xis
-- 👀 I’m interested in schedule
-- 🌱 I’m currently learning schedule
+- 👀 I’m interested in programação
+- 🌱 I’m currently learning programcão
 - 💞️ I’m looking to collaborate on help with some python codes
 - 📫 How to reach me 11978157008
-- 😄 Pronouns: I'm from Palmeiras
+- 😄 Pronouns: I'm palmerense
 - ⚡ Fun fact: I always want to know more
 
 <!---
